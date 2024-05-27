@@ -335,7 +335,7 @@ pw_finalize() {
         echo "To reactivate this environment in the future, run this in your "
         echo "terminal:"
         echo
-        pw_green "  source ./activate.sh"
+        pw_green "  source ./scripts/activate.sh"
         echo
         echo "To deactivate this environment, run this:"
         echo
